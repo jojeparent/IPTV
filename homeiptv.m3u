@@ -1,0 +1,107 @@
+#EXTM3U 
+#EXTINF:0 channelID="1" tvg-name="ICI TÉLÉ ACADIE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72974_dark_360w_270h.png" group-title="Home",ICI TÉLÉ ACADIE
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
+#EXTINF:0 channelID="2" tvg-name="ICI TÉLÉ QUÉBEC" tvg-id="1001" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49584_dark_360w_270h.png" group-title="Home",ICI TÉLÉ QUÉBEC
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
+#EXTINF:0 channelID="3" tvg-name="ICI RDI HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60327_dark_360w_270h.png" group-title="Home",ICI RDI HD
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:0 channelID="4" tvg-name="TVA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58759_dark_360w_270h.png" group-title="Home",TVA
+https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
+#EXTINF:0 channelID="5" tvg-name="NOOVO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72976_dark_360w_270h.png" group-title="Home",NOOVO
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:0 channelID="6" tvg-name="TÉLÉ QUÉBEC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s63040_dark_360w_270h.png" group-title="Home",TÉLÉ QUÉBEC
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_0/chunklist.m3u8
+#EXTINF:0 channelID="7" tvg-name="CANAL SAVOIR" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74875_dark_360w_270h.png" group-title="Home",CANAL SAVOIR
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:0 channelID="8" tvg-name="ICI TÉLÉ" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s105620_dark_360w_270h.png" group-title="Home",ICI TÉLÉ
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:0 channelID="9" tvg-name="CPAC" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="Home",CPAC
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+#EXTINF:0 channelID="10" tvg-name="BFM  Lyon" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="Home",BFM  Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
+#EXTINF:0 channelID="11" tvg-name="TV5 Monde" tvg-logo="https://jojeparent.github.io/iptv/Logos/tv5.png" group-title="Home",TV5 Monde
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:0 channelID="12" tvg-name="CBC(CMBT)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s53502_dark_360w_270h.png" group-title="Home",CBC(CMBT)
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:0 channelID="13" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s19567_dark_360w_270h.png" group-title="Home",CBS
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:0 channelID="14" tvg-name="GLOBAL MARITIME NEWS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17396_dark_360w_270h.png" group-title="Home",GLOBAL MARITIME NEWS
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+#EXTINF:0 channelID="15" tvg-name="CITYTV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10125_dark_360w_270h.png" group-title="Home",CITYTV
+https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
+#EXTINF:0 channelID="16" tvg-name="NBC(WCAUD)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10139_dark_360w_270h.png" group-title="Home",NBC(WCAUD)
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+#EXTINF:0 channelID="17" tvg-name="NTV NEWFOUNDLAND" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14926_dark_360w_270h.png" group-title="Home",NTV NEWFOUNDLAND
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:0 channelID="18" tvg-name="CTV Toronto" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10108_dark_360w_270h.png" group-title="Home",CTV Toronto
+https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
+#EXTINF:0 channelID="20" tvg-name="TVO Kids" tvg-logo="https://jojeparent.github.io/iptv/Logos/tvokids.png" group-title="Home",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:0 channelID="21" tvg-name="Olympic Channel" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104186_dark_360w_270h.png" group-title="Home",Olympic Channel
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
+#EXTINF:0 channelID="22" tvg-name="CBC News" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10094_dark_360w_270h.png" group-title="Home",CBC News
+https://cbchd1dynamicads-i.akamaihd.net/hls/live/577198/the_national/master5.m3u8
+#EXTINF:0 channelID="23" tvg-name="BEIN Sport Extra" tvg-logo="https://jojeparent.github.io/iptv/Logos/bein.png" group-title="Home",BEIN Sport Extra
+https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:0 channelID="24" tvg-name="RedBull" tvg-logo="https://jojeparent.github.io/iptv/Logos/redbull.png" group-title="Home",RedBull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 channelID="26" tvg-name="AMC PRESENT" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s52247_dark_360w_270h.png" group-title="Home",AMC PRESENT
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 channelID="27" tvg-name="EPIX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65687_dark_360w_270h.png" group-title="Home",EPIX
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+#EXTINF:0 channelID="28" tvg-name="EPIX2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s73075_dark_360w_270h.png" group-title="Home",EPIX2
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+#EXTINF:0 channelID="29" tvg-name="CHARGE!" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s102148_dark_360w_270h.png" group-title="Home",CHARGE!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0 channelID="30" tvg-name="CRACKLE" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Home",CRACKLE
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 channelID="32" tvg-name="INWONDERTV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s99927_dark_360w_270h.png" group-title="Home",INWONDERTV
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:0 channelID="33" tvg-name="KNOWLEDGE NETWORK" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14492_dark_360w_270h.png" group-title="Home",KNOWLEDGE NETWORK
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:0 channelID="34" tvg-name="LIVELY PLACE" tvg-logo="https://fitz.tmsimg.com/assets/s113673_ll_h3_aa.png" group-title="Home",LIVELY PLACE
+http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 channelID="x-ID.35" tvg-chno="1034" tvg-name="LOVE NATURE" tvg-id="1034" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s52745_dark_360w_270h.png" group-title="Home",LOVE NATURE
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 channelID="36" tvg-name="ROUGE TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s89329_dark_360w_270h.png" group-title="Home",ROUGE TV
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:0 channelID="37" tvg-name="TINY HOUSE NATION" tvg-logo="https://jojeparent.github.io/iptv/Logos/tiny.png" group-title="Home",TINY HOUSE NATION
+https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 channelID="38" tvg-name="THE DESIGN NETWORK" tvg-logo="https://d2stpqwf2hevny.cloudfront.net/static/img/tdn-logo-pink.png" group-title="Home",THE DESIGN NETWORK
+https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 channelID="25" tvg-name="This Old House" tvg-logo="https://jojeparent.github.io/iptv/Logos/oldhouse.png" group-title="Home",This Old House
+http://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 channelID="39" tvg-name="THE WEATHER NETWORK" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72183_dark_360w_270h.png" group-title="Home",THE WEATHER NETWORK
+https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
+#EXTINF:0 channelID="40" tvg-name="AWE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s44895_dark_360w_270h.png" group-title="Home",AWE
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaweplus/chunks.m3u8
+#EXTINF:0 channelID="54" tvg-name="AWE Plus" tvg-logo="https://jojeparent.github.io/iptv/Logos/aweplus.png" group-title="Home",AWE Plus
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaweplus/chunks.m3u8
+#EXTINF:0 channelID="41" tvg-name="WEATHER SPY CHANNEL" tvg-logo="https://v.fastcdn.co/u/ce0680fc/50673365-0-WEATHERSPY-LOGO-WHIT.png" group-title="Home",WEATHER SPY CHANNEL
+https://jukin-weatherspy-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 channelID="42" tvg-name="Outside TV+" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22765/outside-tv/logo_20200205_182211.png" group-title="Home",Outside TV+
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/c0ec224b-f90f-4db3-bd44-250af5a90446/1.m3u8
+#EXTINF:0 channelID="43" tvg-name="Xplore" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Home",Xplore
+https://xplore-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 channelID="44" tvg-name="Journy" tvg-logo="https://od.lk/s/MF8yMjg5MzMxNjNf/Journy_225x225.png" group-title="Home",Journy
+https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
+#EXTINF:0 channelID="47" tvg-name="The Pet Collective" tvg-logo="https://jojeparent.github.io/iptv/Logos/pet collective.png" group-title="Home",The Pet Collective
+https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/421f74b5-bf8c-4ac3-aae1-cd0e9d840b87/3.m3u8
+#EXTINF:0 channelID="48" tvg-name="Fail Army" tvg-logo="https://jojeparent.github.io/iptv/Logos/Fail Army.png" group-title="Home",Fail Army
+https://failarmy-linear.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 channelID="49" tvg-name="MUSIC VIDEO CHANNEL" tvg-logo="https://www.cmc-tv.com/images/camuslogo.gif" group-title="Home",MUSIC VIDEO CHANNEL
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF:0 channelID="59" tvg-name="Animal Planet" tvg-logo="http://192.168.0.147:34400/data_images/animal.png" group-title="Home",Animal Planet
+http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/218/index.m3u8
+#EXTINF:0 channelID="60" tvg-name="Discovery Channel" tvg-logo="http://192.168.0.147:34400/data_images/discovery.png" group-title="Home",Discovery Channel
+http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/227/index.m3u8
+#EXTINF:0 channelID="55" tvg-name="National Geo Wild" tvg-logo="http://192.168.0.147:34400/data_images/natgeow.png" group-title="Home",National Geo Wild
+http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/216/index.m3u8
+#EXTINF:0 channelID="57" tvg-name="National Geographic" tvg-logo="http://192.168.0.147:34400/data_images/natgeo.png" group-title="Home",National Geographic
+http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/230/index.m3u8
+#EXTINF:0 channelID="58" tvg-name="History" tvg-logo="https://jojeparent.github.io/iptv/Logos/history.png" group-title="Home",National Geographic
+http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/231/index.m3u8
+#EXTINF:0 channelID="x-ID.56" tvg-name="Playboy" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s50404_dark_360w_270h.png" group-title="Home",Playboy
+http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/527/index.m3u8
+#EXTINF:0 channelID="61" tvg-name="Dorcel Tv" tvg-logo="http://192.168.0.147:34400/data_images/dorcel.png" group-title="Home",Dorcel Tv
+http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/245/index.m3u8
