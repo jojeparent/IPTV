@@ -89,17 +89,17 @@ https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/
 https://failarmy-linear.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-name="MUSIC VIDEO CHANNEL" tvg-logo="https://www.cmc-tv.com/images/camuslogo.gif" group-title="Home",MUSIC VIDEO CHANNEL
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
-#EXTINF:0 tvg-name="Animal Planet" tvg-logo="http://192.168.0.147:34400/data_images/animal.png" group-title="Home",Animal Planet
+#EXTINF:0 tvg-name="Animal Planet" tvg-logo="https://jojeparent.github.io/iptv/Logos/animal.png" group-title="Home",Animal Planet
 http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/218/index.m3u8
-#EXTINF:0 tvg-name="Discovery Channel" tvg-logo="http://192.168.0.147:34400/data_images/discovery.png" group-title="Home",Discovery Channel
+#EXTINF:0 tvg-name="Discovery Channel" tvg-logo="https://jojeparent.github.io/iptv/Logos/discovery.png" group-title="Home",Discovery Channel
 http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/227/index.m3u8
-#EXTINF:0 tvg-name="National Geo Wild" tvg-logo="http://192.168.0.147:34400/data_images/natgeow.png" group-title="Home",National Geo Wild
+#EXTINF:0 tvg-name="National Geo Wild" tvg-logo="https://jojeparent.github.io/iptv/Logos/natgeow.png" group-title="Home",National Geo Wild
 http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/216/index.m3u8
-#EXTINF:0 tvg-name="National Geographic" tvg-logo="http://192.168.0.147:34400/data_images/natgeo.png" group-title="Home",National Geographic
+#EXTINF:0 tvg-name="National Geographic" tvg-logo="https://jojeparent.github.io/iptv/Logos/natgeo.png" group-title="Home",National Geographic
 http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/230/index.m3u8
 #EXTINF:0 tvg-name="History" tvg-logo="https://jojeparent.github.io/iptv/Logos/history.png" group-title="Home",National Geographic
 http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/231/index.m3u8
 #EXTINF:0 tvg-name="Playboy" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s50404_dark_360w_270h.png" group-title="Home",Playboy
 http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/527/index.m3u8
-#EXTINF:0 tvg-name="Dorcel Tv" tvg-logo="http://192.168.0.147:34400/data_images/dorcel.png" group-title="Home",Dorcel Tv
+#EXTINF:0 tvg-name="Dorcel Tv" tvg-logo="https://jojeparent.github.io/iptv/Logos/dorcel.png" group-title="Home",Dorcel Tv
 http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/245/index.m3u8
