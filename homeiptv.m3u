@@ -79,7 +79,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaweplus/chunks.m3u8
 #EXTINF:0 tvg-name="d27f65" tvg-logo="https://v.fastcdn.co/u/ce0680fc/50673365-0-WEATHERSPY-LOGO-WHIT.png" group-title="Home",WEATHER SPY CHANNEL
 https://jukin-weatherspy-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-name="5d9ead" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22765/outside-tv/logo_20200205_182211.png" group-title="Home",Outside TV+
+#EXTINF:0 tvg-name="Outside.TV+.us" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22765/outside-tv/logo_20200205_182211.png" group-title="Home",Outside TV+
 https://outsidetvplus-maz.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusmazapps/CDN/1280x720_2890800/index.m3u8
 #EXTINF:0 tvg-name="PlutoTVExplore(English).de" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Home",Xplore
 https://xplore-plex.amagi.tv/playlist.m3u8
