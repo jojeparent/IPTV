@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:0 tvg-id="CBAFTDT(French).ca" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72974_dark_360w_270h.png" group-title="Home",ICI TÉLÉ ACADIE
+#EXTINF:0 tvg-chno="1002" tvg-id="CBAFTDT(French).ca" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72974_dark_360w_270h.png" group-title="Home",ICI TÉLÉ ACADIE
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
 #EXTINF:0 tvg-id="CBVTDT(French).ca" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49584_dark_360w_270h.png" group-title="Home",ICI TÉLÉ QUÉBEC
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
