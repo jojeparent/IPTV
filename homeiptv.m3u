@@ -56,7 +56,7 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:0 tvg-id="Dust" tvg-logo="https://jojeparent.github.io/iptv/Logos/dust.png" group-title="Home",Dust
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-id="AMC(English).ca" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s52247_dark_360w_270h.png" group-title="Home",AMC PRESENT
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+https://amc-amcpresents-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="CHARGE.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s102148_dark_360w_270h.png" group-title="Home",CHARGE!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:0 tvg-id="C6ea97" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Home",CRACKLE
