@@ -39,6 +39,8 @@ https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="TVO Kids" tvg-logo="https://jojeparent.github.io/iptv/Logos/tvokids.png" group-title="Home",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:0 tvg-id="TVO" tvg-logo="https://jojeparent.github.io/iptv/Logos/tvo.png" group-title="Home",TVO
+https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="OlympicChannel.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104186_dark_360w_270h.png" group-title="Home",Olympic Channel
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 #EXTINF:0 tvg-id="CBCNewsNetwork(English).ca" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10094_dark_360w_270h.png" group-title="Home",CBC News
@@ -47,6 +49,12 @@ https://cbchd1dynamicads-i.akamaihd.net/hls/live/577198/the_national/master5.m3u
 https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="tv.redbull.tv" tvg-logo="https://jojeparent.github.io/iptv/Logos/redbull.png" group-title="Home",RedBull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 tvg-id="espn" tvg-logo="https://jojeparent.github.io/iptv/Logos/espn.png" group-title="Home",ESPN
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:0 tvg-id="espn2" tvg-logo="https://jojeparent.github.io/iptv/Logos/espn2.png" group-title="Home",ESPN2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:0 tvg-id="Dust" tvg-logo="https://jojeparent.github.io/iptv/Logos/dust.png" group-title="Home",Dust
+https://dust-samsung-uk-ca.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-id="AMC(English).ca" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s52247_dark_360w_270h.png" group-title="Home",AMC PRESENT
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="CHARGE.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s102148_dark_360w_270h.png" group-title="Home",CHARGE!
@@ -61,6 +69,10 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="Love.Nature.(NATUR).ca" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s52745_dark_360w_270h.png" group-title="Home",LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="Pluto Explore" tvg-logo="https://jojeparent.github.io/iptv/Logos/plutoexplore.png" group-title="Home",PLUTO EXPLORE
+https://xplore-plex.amagi.tv/playlist1080-p.m3u8
+#EXTINF:0 tvg-id="Whistle" tvg-logo="https://jojeparent.github.io/iptv/Logos/whistle.png" group-title="Home",WHISTLE
+https://whistle-1.plex.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-id="RougeTV(French).ch" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s89329_dark_360w_270h.png" group-title="Home",ROUGE TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:0 tvg-id="601a0342dcf4370007566891" tvg-logo="https://jojeparent.github.io/iptv/Logos/tiny.png" group-title="Home",TINY HOUSE NATION
