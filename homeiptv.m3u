@@ -41,6 +41,8 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:0 tvg-id="TVO" tvg-logo="https://jojeparent.github.io/iptv/Logos/tvo.png" group-title="Home",TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="TLC" tvg-logo="https://jojeparent.github.io/iptv/Logos/tlc.png" group-title="Home",TLC
+https://bozztv.com/teleyupp/teleup-tlc/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="OlympicChannel.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104186_dark_360w_270h.png" group-title="Home",Olympic Channel
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 #EXTINF:0 tvg-id="CBCNewsNetwork(English).ca" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10094_dark_360w_270h.png" group-title="Home",CBC News
